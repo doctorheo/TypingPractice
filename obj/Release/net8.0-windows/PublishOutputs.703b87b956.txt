@@ -1,0 +1,7 @@
+C:\Users\hohoj\source\repos\TypingPractice\bin\Release\net8.0-windows\publish\TypingPractice.exe
+C:\Users\hohoj\source\repos\TypingPractice\bin\Release\net8.0-windows\publish\Resources\correct.wav
+C:\Users\hohoj\source\repos\TypingPractice\bin\Release\net8.0-windows\publish\Resources\wrong.wav
+C:\Users\hohoj\source\repos\TypingPractice\bin\Release\net8.0-windows\publish\TypingPractice.dll
+C:\Users\hohoj\source\repos\TypingPractice\bin\Release\net8.0-windows\publish\TypingPractice.deps.json
+C:\Users\hohoj\source\repos\TypingPractice\bin\Release\net8.0-windows\publish\TypingPractice.runtimeconfig.json
+C:\Users\hohoj\source\repos\TypingPractice\bin\Release\net8.0-windows\publish\TypingPractice.pdb
