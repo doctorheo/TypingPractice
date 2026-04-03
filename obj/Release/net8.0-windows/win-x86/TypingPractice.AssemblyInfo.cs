@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TypingPractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f734ca1db348503615aefd8eb3f9f2239414866")]
 [assembly: System.Reflection.AssemblyProductAttribute("TypingPractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TypingPractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -480,3 +480,12 @@ C:\Users\hohoj\source\repos\TypingPractice\obj\Release\net8.0-windows\win-x86\re
 C:\Users\hohoj\source\repos\TypingPractice\obj\Release\net8.0-windows\win-x86\TypingPractice.pdb
 C:\Users\hohoj\source\repos\TypingPractice\obj\Release\net8.0-windows\win-x86\TypingPractice.genruntimeconfig.cache
 C:\Users\hohoj\source\repos\TypingPractice\obj\Release\net8.0-windows\win-x86\ref\TypingPractice.dll
+C:\Users\hohoj\source\repos\TypingPractice\bin\Release\net8.0-windows\win-x86\TypingPractice.dll.manifest
+C:\Users\hohoj\source\repos\TypingPractice\bin\Release\net8.0-windows\win-x86\TypingPractice.application
+C:\Users\hohoj\source\repos\TypingPractice\obj\Release\net8.0-windows\win-x86\TypingPractice.GameE.resources
+C:\Users\hohoj\source\repos\TypingPractice\obj\Release\net8.0-windows\win-x86\TypingPractice.GameK.resources
+C:\Users\hohoj\source\repos\TypingPractice\obj\Release\net8.0-windows\win-x86\TypingPractice.settings.resources
+C:\Users\hohoj\source\repos\TypingPractice\obj\Release\net8.0-windows\win-x86\TypingPractice.sourcelink.json
+C:\Users\hohoj\source\repos\TypingPractice\obj\Release\net8.0-windows\win-x86\TypingPractice.genpublishdeps.cache
+C:\Users\hohoj\source\repos\TypingPractice\obj\Release\net8.0-windows\win-x86\TypingPractice.dll.manifest
+C:\Users\hohoj\source\repos\TypingPractice\obj\Release\net8.0-windows\win-x86\TypingPractice.application
